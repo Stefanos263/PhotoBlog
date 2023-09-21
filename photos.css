@@ -1,0 +1,14 @@
+img {
+    width:30%;
+    margin:1.6666%;
+}
+nav {
+    color:rgb(62, 60, 60);
+    font-family:'Pacifico', cursive;
+    font-size: 1,7em;
+text-transform: uppercase;
+border-bottom: 2px solid gray;
+width: 30%;
+margin-left:1.6666%;
+padding: 1,5em 0 ;
+}
